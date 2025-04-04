@@ -1,4 +1,3 @@
-# PharmacySystem
 # Pharmacy Ordering System
 
 ## Overview
